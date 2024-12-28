@@ -1,0 +1,10 @@
+a={"red","blue","green","red","orange","black"}
+print(a)
+print(len(a))
+print(type(a))
+a.add("white")
+a.add("purple")
+a.add("pink")
+print(a)
+a.remove("pink")
+print(a)
